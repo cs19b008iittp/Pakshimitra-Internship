@@ -25,7 +25,7 @@ The goal of this project is to prepare the UI of the screens from the Zoho Books
   
   This will start the development server and open a web browser with the Expo DevTools.
   
-5.If you do want to use web support, you can install the required dependencies by running the following command:
+5.If you are not able to use web support, you can install the required dependencies by running the following command:
 
   *'npx expo install react-native-web@~0.18.10 react-dom@18.2.0 @expo/webpack-config@^18.0.1'*
   

@@ -39,5 +39,5 @@ The goal of this project is to prepare the UI of the screens from the Zoho Books
 Please Open the Master Branch for the code files not the main branch.
 
 **IMAGES OF THE WORKING PROJECT**
-![Alt Text](https://github.com/username/repository-name/blob/master/images/image-name.png)
-![Alt Text](https://github.com/username/repository-name/blob/master/images/image-name.png)
+![Alt Text](Images/signup.png)
+![Alt Text](Images/signup2.png)

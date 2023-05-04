@@ -34,3 +34,6 @@ The goal of this project is to prepare the UI of the screens from the Zoho Books
   After installing the dependencies, you can try running npx expo start again and selecting the "web" option from the Expo DevTools (by pressing "w" in the terminal).
   
   This should open your project in a web browser.
+
+**NOTE**
+Please Open the Master Branch for the code files not the main branch.

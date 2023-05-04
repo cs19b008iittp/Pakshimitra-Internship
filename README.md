@@ -21,7 +21,7 @@ The goal of this project is to prepare the UI of the screens from the Zoho Books
   
 4.You can then navigate to the project directory and start the development server using:
 
-  *'#npx expo start'*
+  *'npx expo start'*
   
   This will start the development server and open a web browser with the Expo DevTools.
   

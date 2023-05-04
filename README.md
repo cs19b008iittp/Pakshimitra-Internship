@@ -1,5 +1,12 @@
 # Pakshimitra-Internship
 
+***Description***
+
+The goal of this project is to prepare the UI of the screens from the Zoho Books sign up page using React Native.
+
+The screens should be designed to match the user interface of the original page when viewed on a mobile device.
+
+
 ***Steps to be followed to set up the react-native project***
 
 1.Make sure you have Node.js installed on your system. You can download it from the official website: https://nodejs.org/en/download/
